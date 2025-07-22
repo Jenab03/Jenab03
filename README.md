@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Jenab!
 
-<!--
-**Jenab03/Jenab03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Performance Marketing & Data Analytics enthusiast  
+📍 Based in Berlin | Graduate of WBS Coding School – Data Analytics     
 
-Here are some ideas to get you started:
+💼 Previously at Getir – managing paid campaigns across DE, UK, US, NL, PL & ES  
+🧠 Passionate about strategy, automation & growth through data  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools & Skills:
+Google Ads · Meta Ads · TikTok · GA4 · Looker Studio · BigQuery  
+Python · SQL · Campaign Strategy · Reporting Automation  
+
+🚀 Currently:
+- Building a marketing portfolio with real case studies  
+- Analysing marketing channels to find what works best  
+- Exploring forecasting, ROAS tracking & dashboarding  
+
+📫 Let's connect: (https://www.linkedin.com/in/jenab-vhora/) 
